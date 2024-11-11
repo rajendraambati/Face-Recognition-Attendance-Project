@@ -25,7 +25,7 @@ Create a folder named ImagesAttendance where you will store images of individual
 
 ## 3. Code Explanation
 Here’s the complete code for the face recognition attendance system:
-   - [fatiando/pooch](https://github.com/rajendraambati/Face-Recognition-Attendance-Project/blob/main/main.py)
+   - [ambatirajendra/house_price_prediction](https://github.com/rajendraambati/Face-Recognition-Attendance-Project/blob/main/main.py)
 
 ## 4. Code Breakdown
    - Loading Images: The code loads images from the ImagesAttendance directory and stores their encodings.
