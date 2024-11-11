@@ -43,4 +43,4 @@ To run your attendance system:
 # Conclusion
 This project demonstrates how powerful computer vision techniques can be applied to automate mundane tasks like attendance tracking. By leveraging libraries such as OpenCV and face_recognition, we can create efficient systems that save time and reduce errors associated with manual processes.
 
-Feel free to explore further enhancements like integrating a web interface or improving accuracy with better image datasets! You can find this project on GitHub for reference or collaboration
+Feel free to explore further enhancements like integrating a web interface or improving accuracy with better image datasets! You can find this project on [GitHub](https://github.com/rajendraambati/Face-Recognition-Attendance-Project) for reference or collaboration
